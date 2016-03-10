@@ -3,7 +3,7 @@
 This book contains the entire documentation for **GitBook** (gitbook.com and format).
 
 
-![Tower Cover](../assets/tower_cover.png)
+![Tower Cover](assets/tower_cover.png)
 
 ### Open Source Format
 
