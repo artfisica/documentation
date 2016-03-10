@@ -9,9 +9,9 @@ This book contains the entire documentation for **GitBook** (gitbook.com and for
 
 The toolchain (GitBook) is a tool for building beautiful books using Git and Markdown. It can generate your book in many formats: **PDF**, **ePub**, **mobi** or as a **website**.
 
-It is open source, the source code of the tool is available on [GitHub](https://github.com/GitbookIO/gitbook).
+It is open source, the source code of the tool is available on [GitLab](https://gitlab.cern.ch/arturos/ATLAS-NA-Tower).
 
-Issues and question related to the format and the toolchain should be posted on [GitHub](https://github.com/GitbookIO/gitbook/issues)
+Issues and question related to the format and the toolchain should be posted on [GitLab CERN group](https://gitlab.cern.ch/groups/Naples-Software-ATLAS)
 
 ### GitBook.com
 
@@ -25,8 +25,8 @@ Setup guide and documentation for the enterprise version is accessible at [help.
 
 ### Help and Support
 
-We're always happy to help out with your books or any other questions you might have. You can ask a question or signal an issue on the following contact form at [gitbook.com/contact](https://www.gitbook.com/contact).
+We're always happy to help out with the software or the documentation. You can ask a question or signal an issue on the following contact form at [gitbook.com/contact](https://www.gitbook.com/contact).
 
 ### Contribute to this documentation
 
-You can contribute to improve this documentation on [GitHub](https://github.com/GitbookIO/documentation) by signaling issues or proposing changes.
+You can contribute to improve this documentation on [GitHub](https://github.com/artfisica/documentation) by signaling issues or proposing changes.
