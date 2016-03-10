@@ -1,4 +1,4 @@
-# GitBook Documentation
+# ATLAS Documentation Documentation
 
 This book contains the entire documentation for **GitBook** (gitbook.com and format).
 
