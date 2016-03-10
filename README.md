@@ -25,6 +25,8 @@ Setup guide and documentation for the enterprise version is accessible at [twiki
 
 We're happy to help out with the software or the documentation. You can ask a question or signal an issue on the following contact form at [gitbook.com/contact](https://www.gitbook.com/contact).
 
+For CERN users, the Naples Jira project is a good place to post issues and features of the code: [Jira Project](https://its.cern.ch/jira/browse/ATLASNA). 
+
 ### Contribute to this documentation
 
 You can contribute to improve this documentation on [GitHub](https://github.com/artfisica/documentation) by signaling issues or proposing changes.
