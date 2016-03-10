@@ -2,6 +2,8 @@
 
 This book contains the entire documentation for **GitBook** (gitbook.com and format).
 
+![Add domain in settings](../tower_cover.png)
+
 ### Open Source Format
 
 The toolchain (GitBook) is a tool for building beautiful books using Git and Markdown. It can generate your book in many formats: **PDF**, **ePub**, **mobi** or as a **website**.
