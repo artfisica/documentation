@@ -1,6 +1,6 @@
 # ATLAS Naples Tower Software Documentation
 
-This book contains the entire documentation for **Naples ALTAS Tower Software**
+This book contains the entire documentation for **Naples ATLAS Tower Software**
 
 This project is under construction and they are the efforts to produce a complete set of software tools to analyze the data coming from the Tower Test Station in the Physics Department of in Naples University "Federico II":
 
