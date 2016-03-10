@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Requirements](requirements.md)
 * [Decoder](decoder/README.md)
 * [Fitting](fitting/README.md)
 * [Recognition](recognition/README.md)
