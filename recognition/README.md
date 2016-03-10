@@ -1,1 +1,1 @@
-Recognition README
+# Introduction to the Recognition Block
