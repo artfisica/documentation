@@ -1,4 +1,4 @@
-# ATLAS Documentation Documentation
+# ATLAS Naples Tower Software Documentation
 
 This book contains the entire documentation for **GitBook** (gitbook.com and format).
 
