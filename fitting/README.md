@@ -4,11 +4,14 @@
 
 {% youtube %}https://www.youtube.com/watch?v=aIMgfBZrrZ80{% endyoutube %}
 
-<code class="lang-bash">~ $ mkdir ~/.jupyter/nbextensions
+<pre lang="lang-bash"><code>
+~ $ mkdir ~/.jupyter/nbextensions
 ~ $ mkdir ~/.jupyter/nbextensions/runselected/
-~ $ <span class="hljs-built_in">cd</span>  ~/.jupyter/nbextensions/runselected/
+~ $ <span class="hljs-built_in">cd</span>
+~/.jupyter/nbextensions/runselected/
 ~/.j/n/runselected $ vim main.js
-</code>
+</code></pre>
+
 
 
 <code class="lang-javascript">define(<span class="hljs-function"><span class="hljs-keyword">function</span>(<span class="hljs-params"></span>)</span>{

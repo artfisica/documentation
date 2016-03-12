@@ -132,7 +132,8 @@ Inline `code` has `back-ticks around` it.
 
 Blocks of code are either fenced by lines with three back-ticks <code>```</code>, or are indented with four spaces. I recommend only using the fenced code blocks -- they're easier and only they support syntax highlighting.
 
-<pre lang="no-highlight"><code>```javascript
+<pre lang="no-highlight"><code>
+```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
@@ -212,4 +213,3 @@ ___
 
 Underscores
 ```
-
