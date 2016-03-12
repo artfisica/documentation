@@ -4,13 +4,13 @@
 
 {% youtube %}https://www.youtube.com/watch?v=aIMgfBZrrZ80{% endyoutube %}
 
-<pre lang="lang-bash"><code>
+'''bash
 ~ $ mkdir ~/.jupyter/nbextensions
 ~ $ mkdir ~/.jupyter/nbextensions/runselected/
 ~ $ <span class="hljs-built_in">cd</span>
 ~/.jupyter/nbextensions/runselected/
 ~/.j/n/runselected $ vim main.js
-</code></pre>
+'''
 
 
 
