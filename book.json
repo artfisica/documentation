@@ -8,3 +8,6 @@
     },
     "pluginsConfig": {}
 }
+{
+    plugins: ["youtube"]
+}
