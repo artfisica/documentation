@@ -1,13 +1,10 @@
 {
     "gitbook": "2.x.x",
-    "plugins": [],
+    "plugins": ["youtube"],
     "links": {
         "sidebar": {
             "Contact us / Support": "https://www.gitbook.com/contact"
         }
     },
     "pluginsConfig": {}
-    {
-        plugins: ["youtube"]
-    }
 }
