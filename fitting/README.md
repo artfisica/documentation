@@ -14,7 +14,9 @@
 
 
 
-<code class="lang-javascript">define(<span class="hljs-function"><span class="hljs-keyword">function</span>(<span class="hljs-params"></span>)</span>{
+<code class="lang-javascript">
+define(<span class="hljs-function">
+<span class="hljs-keyword">function</span>(<span class="hljs-params"></span>)</span>{
 
     <span class="hljs-keyword">var</span> execute_selection= <span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params">cell, stop_on_error</span>) </span>{
         <span class="hljs-comment">// adapted from Cell.prototype.execute, (copy and past + except take cell a on first input) </span>
