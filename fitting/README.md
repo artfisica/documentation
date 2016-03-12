@@ -4,17 +4,8 @@
 
 {% youtube %}https://www.youtube.com/watch?v=aIMgfBZrrZ80{% endyoutube %}
 
-'''bash
-~ $ mkdir ~/.jupyter/nbextensions
-~ $ mkdir ~/.jupyter/nbextensions/runselected/
-~ $ <span class="hljs-built_in">cd</span>
-~/.jupyter/nbextensions/runselected/
-~/.j/n/runselected $ vim main.js
-'''
 
-
-
-<code class="lang-javascript">
+```js
 define(<span class="hljs-function">
 <span class="hljs-keyword">function</span>(<span class="hljs-params"></span>)</span>{
 
@@ -83,4 +74,4 @@ define(<span class="hljs-function">
     <span class="hljs-comment">//---</span>
   };
 })
-</code>
+```
