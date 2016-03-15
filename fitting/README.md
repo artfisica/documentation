@@ -2,6 +2,7 @@
 
 ![Drift](../assets/drift_chambers.png)
 
+<!---
 {% youtube %}https://www.youtube.com/watch?v=aIMgfBZrrZ80{% endyoutube %}
 
 
@@ -52,3 +53,4 @@ new M(); // => "bar"
 
 new M({}, { foo: "quux" }); // => "quux"
 ```
+--->
